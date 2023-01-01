@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{70DFFB5D-7733-4D2C-A5F9-C8D68F87AE55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonHttpProviderGenerator", "JsonProviderGenerator\JsonHttpProviderGenerator.csproj", "{C1F3F872-DFCE-4F43-B748-BBFFD9B78FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DFFB5D-7733-4D2C-A5F9-C8D68F87AE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DFFB5D-7733-4D2C-A5F9-C8D68F87AE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DFFB5D-7733-4D2C-A5F9-C8D68F87AE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DFFB5D-7733-4D2C-A5F9-C8D68F87AE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F3F872-DFCE-4F43-B748-BBFFD9B78FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F3F872-DFCE-4F43-B748-BBFFD9B78FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F3F872-DFCE-4F43-B748-BBFFD9B78FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F3F872-DFCE-4F43-B748-BBFFD9B78FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B3C82C2-114A-4867-A447-E145E8FF377A}
+	EndGlobalSection
+EndGlobal
